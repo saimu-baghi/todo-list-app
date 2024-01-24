@@ -40,7 +40,7 @@ const Register = () => {
         event.preventDefault();
 
         if (isMobile) {
-            setMessage('Please turn on desktop mode');
+            setMessage('If you see this, please turn on Desktop Site');
             return;
         }
 

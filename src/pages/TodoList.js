@@ -65,7 +65,7 @@ const TodoList = () => {
   if (isMobile) {
     return (
       <div>
-        <p>Please turn on desktop mode</p>
+        <p>If you see this, please turn on Desktop Site</p>
       </div>
     );
   }

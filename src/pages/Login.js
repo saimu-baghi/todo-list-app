@@ -38,7 +38,7 @@ const Login = () => {
         event.preventDefault();
 
         if (isMobile) {
-            setErrorMessage('Please turn on desktop mode');
+            setErrorMessage('If you see this, please turn on Desktop Site');
             return;
         }
 
